@@ -8,3 +8,4 @@
 
 
 [![Ianas's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanaSanduta)](https://github.com/IanaSanduta/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanaSanduta&show_icons=true&theme=buefy)
