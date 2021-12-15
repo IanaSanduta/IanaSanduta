@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IanaSanduta
-- 👀 I’m interested in learning and collaborating. I like vibrant and slick design. 
-- 🌱 I’m currently learning Software Engineering
+- 👀 I’m interested in Mobile and Wed Development
+- 🌱 I’m currently learning Android Application Development
 - 📫 How to reach me iana.sandutsa@gmail.com
 
 <!---
